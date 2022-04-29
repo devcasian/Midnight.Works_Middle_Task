@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/LevelNight.unity
+    guid: 8671ab09c88c32a4d8b6a75bfe9e29dd
+  - enabled: 1
+    path: Assets/Scenes/LevelDay.unity
+    guid: 35299a6a99d6dfe4bb709527ba95aab0
+  m_configObjects:
+    com.unity.addressableassets: {fileID: 11400000, guid: f8853f5e09d4ad04c85f8384a2525c62, type: 2}
