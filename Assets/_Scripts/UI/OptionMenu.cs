@@ -59,7 +59,7 @@ public class OptionMenu : MonoBehaviour
         PlayerPrefs.SetFloat("carAcceleration", acceleration);
         PlayerPrefs.SetFloat("carMaxSpeed", maxSpeed);
 
-        Debug.Log("Car acceleration enforced!" + PlayerPrefs.GetFloat("carAcceleration"));
-        Debug.Log("Car max speed enforced!" + PlayerPrefs.GetFloat("carMaxSpeed"));
+        Debug.Log("Car acceleration enforced!");
+        Debug.Log("Car max speed enforced!");
     }
 }

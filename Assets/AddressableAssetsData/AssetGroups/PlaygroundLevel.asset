@@ -17,12 +17,12 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 23b078e27dc9428438314560492c7beb
   m_SerializeEntries:
-  - m_GUID: 7469cfa9d96020c40ad5d9ea54b8b3a9
-    m_Address: Assets/Scenes/World.prefab
+  - m_GUID: ac2e1a52c80d8b742b628408971b3bfe
+    m_Address: Assets/Prefabs/Addressables/LevelNightCube.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: 352a39b70b00bbc40818235827086a25
-    m_Address: Assets/Addressables/LevelNightWorld.prefab
+  - m_GUID: 250ee8a4dd4fc9947925fc409746d673
+    m_Address: Assets/Prefabs/Addressables/LevelDayCube.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []
   m_ReadOnly: 0
